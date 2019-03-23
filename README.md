@@ -16,6 +16,11 @@ npm install -g @angular/cli
 ng new nome_do_projeto
 ``
 
+``
+ng serve
+``
+
+
 ## documentação do angular
 ``
 https://angular.io/docs
